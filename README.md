@@ -12,28 +12,28 @@ There isn't much new in my css file, just the sky animation that was done manual
 I will explain each of my js functions:<br><br>
 The jump function, just insert a css class, which calls a jump animation (bottom: 130px)<br><br>
 <p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-1.png" alt="Page Preview" width="500">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-1.png" alt="Js Function - Jump" width="500">
 </p>
 A function to check every 10m if the player has died (In case the distance from the obstacle collides with the player and he has not jumped)<br><br>
 This function changes the player's image if it dies <br><br>
 <p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-2.png" alt="Page Preview" width="700">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-2.png" alt="Js Function - Die check" width="700">
 </p>
 And finally the most basic, which defines any key to jump.<br><br>
 <p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-3.png" alt="Page Preview" width="500">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-3.png" alt="Js Function = JumpKey" width="500">
 </p>
 In the future I would like to implement a score and a death popup. Everything will be documented here and also on my blog:
 </i> </h3>
 <h2></h2>
 <h3 align="justify"><i>Anyway, I implemented what I had said. I just put a seconds counter as the score, styled it and added it in a popup with location.reload() to restart the game. It's still not pretty, not as the arts of our dear artist (FOLLOW HIM), but works.<br><br>
 <p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/img-2.png" alt="Page Preview" width="1000">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/img-2.png" alt="Page Preview - Popup" width="1000">
 </p>
 The two extremely simple functions below:</i></h3>
 <p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-4.png" alt="Page Preview" width="500"> <br>
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-5.png" alt="Page Preview" width="500">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-4.png" alt="Js Function - ScoreBoard" width="500"> <br>
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-5.png" alt="Js Function -Popup" width="500">
 </p>
 <h3 align="justify">
 Thanks for reading, see you soon

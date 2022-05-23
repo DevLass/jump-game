@@ -9,9 +9,18 @@ First, I basically just used images and gifs (for animation) in my html, everyth
 There isn't much new in my css file, just the sky animation that was done manually with two images and two separate keyframes. I lowered the opacity of the two so that the intersection between the images would not be visible (USE GIFS, this opacity solution took longer than it should).<br><br>
 I will explain each of my js functions:<br><br>
 The jump function, just insert a css class, which calls a jump animation (bottom: 130px)<br><br>
+<p align="center">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-1.png" alt="Page Preview" width="500">
+</p>
 A function to check every 10m if the player has died (In case the distance from the obstacle collides with the player and he has not jumped)<br><br>
 This function changes the player's image if it dies <br><br>
+<p align="center">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-2.png" alt="Page Preview" width="700">
+</p>
 And finally the most basic, which defines any key to jump.<br><br>
+<p align="center">
+  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-3.png" alt="Page Preview" width="500">
+</p>
 In the future I would like to implement a score and a death popup. Everything will be documented here and also on my blog:
 </i> </h3>
 <h2></h2>
